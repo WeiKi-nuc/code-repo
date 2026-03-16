@@ -1,0 +1,15 @@
+[
+  {
+    "id": "4a46a786-849e-42bc-8028-a648b83fc415",
+    "title": "test",
+    "code": "import time\n\nprint(\"这是一个测试\")\n\ntime.sleep(1)",
+    "language": "python",
+    "description": "",
+    "tags": [
+      "test"
+    ],
+    "is_favorite": true,
+    "created_at": "2026-03-16T15:52:15.693470",
+    "updated_at": "2026-03-16T15:52:57.820467"
+  }
+]
